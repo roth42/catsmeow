@@ -1,2 +1,3 @@
 .vagrant
 bolt/app/cache
+bolt/app/database
